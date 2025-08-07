@@ -1,11 +1,11 @@
 {
   "name": "universal-template-system",
-  "version": "0.1.0",
+  "version": "0.01.0",
   "description": "よっぽどの馬鹿でも使えるUniversalテンプレートシステム - カップラーメン方式",
   "main": "universal-system/core/universal-template.js",
   "scripts": {
     "init": "node universal-system/core/universal-template.js",
-    "start": "npm run init && echo '🎉 Universal Template v0.1 起動完了'",
+    "start": "npm run init && echo '🎉 Universal Template v0.01 起動完了'",
     "dev": "npm run init",
     "test": "npm run test:all",
     "test:all": "npm run test:firebase && npm run test:ui && npm run test:storage",
